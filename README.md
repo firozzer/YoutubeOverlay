@@ -13,4 +13,4 @@ Chrome extension: https://chrome.google.com/webstore/detail/youtube-overlay/bbnd
 
 -> `tsconfig.json` is just the instructions for the TypeScript compiler.
 
--> Somehow still need to figure out how NOT to run the extension when user clicks on the icon but URL != "https://www.youtube.com/watch?v*".
+-> Somehow still need to figure out how NOT to run the extension when user clicks on the icon but URL != "https://www.youtube.com/watch?v*". Need to place this restriction in the Manifest somehow, as not too keen on a Javascript `if tab.url !=` check in the `bg.js`.

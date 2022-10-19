@@ -1,7 +1,7 @@
 # Youtube Overlay
 Places a simple textarea overlay on YouTube videos so you can paste in chords/lyrics & jam out!
 
-Chrome extension: https://chrome.google.com/webstore/detail/youtube-overlay/bbndonhbepfkfjicnnnbgfdminkjhcfe
+Video demo: https://v.redd.it/iqn37wemlas61 / https://www.reddit.com/r/webdev/comments/mnzrzc/i_made_a_chrome_extension_to_overlay_guitar/
 
 -> When user clicks on the extension icon, `bg.js` runs, which in turn fires up `yt.js`. 
 
